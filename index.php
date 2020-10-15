@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>criança</h1>
+    <h2>adolescente</h2>
     
 </body>
 </html>
